@@ -1,0 +1,11 @@
+/*Latiesha Hayden 8920327*/
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height : 100vh;
+    background-color: hsl(327, 100%, 87%);
+}
+h2{
+    color : #f07;
+    font-size: 2em;
+}
