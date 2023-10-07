@@ -6,6 +6,43 @@ body{
     background-color: hsl(327, 100%, 87%);
 }
 h2{
-    color : #f07;
+    color : rgb(105, 46, 161);
     font-size: 2em;
+}
+header{
+ background-color : hsl(149, 97%, 76%)
+}
+main{
+    float : left;
+    width : 65vw;
+    height: 60vh;
+    background-color : hsl(244, 100%, 75%)
+}
+aside{
+    float : right;
+    width : 25vw;
+    height: 60vh;
+    background-color : hsl(295, 100%, 81%)
+}
+footer{
+    clear : both;
+    background-color : hsl(61, 92%, 75%)
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid hsl(246, 66%, 58%);
+}
+#para1{
+    color : rgb(247, 230, 238);
+}
+
+#para2{
+    color : rgb(0, 34, 107);
+}
+a:hover{
+    color : rgb(255, 0, 140);
+}
+footer p{
+    font-size : .75em;
 }
